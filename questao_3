@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+<body>
+
+<style>
+    label {
+
+    }
+</style>
+
+
+<h1 style="color: darkred;">Entre em Contato</h1>
+
+<form action="/submit_form" method="post">
+	<label for="name"></label><br>
+	<input type="text" id="name" name="name" placeholder="Nome:" required><br><br>
+
+	<label for="email"></label>
+	<input type="email" id="email" name="email" placeholder="Email:" required><br><br>
+
+	<label for="mensagem"></label>
+	<textarea placeholder="Digite algo:"></textarea><br><br>
+
+	<input style="background-color: burlywood;" type="submit" value="Enviar">
+</form>
+
+</body>
+</html>
