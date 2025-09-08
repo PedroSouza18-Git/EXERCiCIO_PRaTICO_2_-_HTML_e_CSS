@@ -3,9 +3,9 @@
 <body>
 
 <style>
-    label {
-
-    }
+	*{
+		text-align: center;
+	}
 </style>
 
 
