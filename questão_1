@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <Style>
+        * {
+            text-align: center;
+        }
+		body {
+			background-color: darkolivegreen;
+		}
+		p{
+			font-size: 120%;
+		}
+		h1{
+			font-color: darkgreen;
+		}
+		img {
+			border-radius: 100%;
+			border: 8px solid rgb(173, 255, 0);
+		}
+        .button-html {
+            background-color: lightblue;
+        }
+        .button-css {
+            background-color: lightblue;
+        }
+        .button-Javascript {
+            background-color: lightblue;
+        }
+	</Style>
+
+	<img src="Sem_imagem.jpg" alt="imagem teste" width="200px" height="200px" padding-left: 200px>
+
+	<h1>Pedro Souza</h1>
+	<p>Olá, meu nome é Pedro Henrique Gonçalves de Souza e sou apaixonado por tecnologia e desenvolvimento de jogos digitais. Tenho Experiência em HTML, CSS, JavaScript. Adoro ter ideias sobre como organizar uma pagina ou a ideia de como passar uma informação de maneira divertida e que todos gostem.</p>
+
+	<button class="button-html">HTML</button>
+    <button class="button-css">CSS</button>
+    <button class="button-Javascript">JavaScript</button>
+</body>
+</html>
